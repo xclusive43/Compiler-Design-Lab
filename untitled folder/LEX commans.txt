@@ -1,0 +1,7 @@
+ 
+└──╼ $lex LEX6.l  (Lex file name with extension .l)
+ 
+└──╼ $cc lex.yy.c -lfl (type cc for compile Lex.yy.c -lfl on tab press)
+ 
+└──╼ $./a.out (Run)
+
